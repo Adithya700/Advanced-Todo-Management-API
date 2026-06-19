@@ -1,0 +1,340 @@
+2026-06-14 23:17:12,973 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-14 23:17:12,973 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-14 23:17:12,977 - INFO -  * Restarting with stat
+2026-06-14 23:17:14,685 - WARNING -  * Debugger is active!
+2026-06-14 23:17:14,695 - INFO -  * Debugger PIN: 113-265-740
+2026-06-14 23:18:58,147 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-14 23:18:58,148 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-14 23:18:58,152 - INFO -  * Restarting with stat
+2026-06-14 23:18:59,820 - WARNING -  * Debugger is active!
+2026-06-14 23:18:59,829 - INFO -  * Debugger PIN: 113-265-740
+2026-06-14 23:19:57,888 - INFO - 127.0.0.1 - - [14/Jun/2026 23:19:57] "[31m[1mGET /register HTTP/1.1[0m" 405 -
+2026-06-14 23:20:01,832 - INFO - 127.0.0.1 - - [14/Jun/2026 23:20:01] "[31m[1mPOST /register HTTP/1.1[0m" 409 -
+2026-06-14 23:20:55,554 - INFO - 127.0.0.1 - - [14/Jun/2026 23:20:55] "[33mDELETE /task HTTP/1.1[0m" 404 -
+2026-06-14 23:21:23,324 - INFO - 127.0.0.1 - - [14/Jun/2026 23:21:23] "[33mDELETE /1 HTTP/1.1[0m" 404 -
+2026-06-14 23:21:28,894 - INFO - 127.0.0.1 - - [14/Jun/2026 23:21:28] "[33mGET /1 HTTP/1.1[0m" 404 -
+2026-06-14 23:21:33,103 - INFO - 127.0.0.1 - - [14/Jun/2026 23:21:33] "[33mGET / HTTP/1.1[0m" 404 -
+2026-06-14 23:21:46,426 - INFO - 127.0.0.1 - - [14/Jun/2026 23:21:46] "[33mGET / HTTP/1.1[0m" 404 -
+2026-06-14 23:23:27,175 - INFO - 127.0.0.1 - - [14/Jun/2026 23:23:27] "[33mGET /tasks/ HTTP/1.1[0m" 404 -
+2026-06-14 23:27:16,725 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\Todo_adv\\app.py', reloading
+2026-06-14 23:27:16,881 - INFO -  * Restarting with stat
+2026-06-14 23:27:18,733 - WARNING -  * Debugger is active!
+2026-06-14 23:27:18,752 - INFO -  * Debugger PIN: 113-265-740
+2026-06-14 23:30:16,849 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-14 23:30:16,850 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-14 23:30:16,853 - INFO -  * Restarting with stat
+2026-06-14 23:30:18,483 - WARNING -  * Debugger is active!
+2026-06-14 23:30:18,490 - INFO -  * Debugger PIN: 113-265-740
+2026-06-14 23:30:21,169 - INFO - 127.0.0.1 - - [14/Jun/2026 23:30:21] "[31m[1mPOST /register HTTP/1.1[0m" 409 -
+2026-06-14 23:30:27,949 - INFO - User Logged In: adithya@gmail.com
+2026-06-14 23:30:27,951 - INFO - 127.0.0.1 - - [14/Jun/2026 23:30:27] "POST /login HTTP/1.1" 200 -
+2026-06-14 23:31:43,541 - INFO - 127.0.0.1 - - [14/Jun/2026 23:31:43] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-14 23:31:43,550 - INFO - 127.0.0.1 - - [14/Jun/2026 23:31:43] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-14 23:32:10,371 - INFO - 127.0.0.1 - - [14/Jun/2026 23:32:10] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-14 23:32:10,377 - INFO - 127.0.0.1 - - [14/Jun/2026 23:32:10] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-14 23:32:45,013 - INFO - 127.0.0.1 - - [14/Jun/2026 23:32:45] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-14 23:32:55,451 - INFO - 127.0.0.1 - - [14/Jun/2026 23:32:55] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-14 23:33:04,012 - INFO - 127.0.0.1 - - [14/Jun/2026 23:33:04] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-14 23:35:33,329 - INFO - User Logged In: adithya@gmail.com
+2026-06-14 23:35:33,334 - INFO - 127.0.0.1 - - [14/Jun/2026 23:35:33] "POST /login HTTP/1.1" 200 -
+2026-06-14 23:36:31,037 - INFO - 127.0.0.1 - - [14/Jun/2026 23:36:31] "[31m[1mGET /tasks/ HTTP/1.1[0m" 401 -
+2026-06-14 23:39:34,990 - INFO - 127.0.0.1 - - [14/Jun/2026 23:39:34] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 07:43:54,912 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-15 07:43:54,913 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-15 07:43:54,915 - INFO -  * Restarting with stat
+2026-06-15 07:43:56,548 - WARNING -  * Debugger is active!
+2026-06-15 07:43:56,560 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 07:45:47,673 - INFO - User Registered: adithyan@example.com
+2026-06-15 07:45:47,674 - INFO - 127.0.0.1 - - [15/Jun/2026 07:45:47] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2026-06-15 07:45:55,593 - INFO - User Logged In: adithyan@example.com
+2026-06-15 07:45:55,593 - INFO - 127.0.0.1 - - [15/Jun/2026 07:45:55] "POST /login HTTP/1.1" 200 -
+2026-06-15 07:46:40,024 - INFO - 127.0.0.1 - - [15/Jun/2026 07:46:40] "[31m[1mPOST /profile HTTP/1.1[0m" 405 -
+2026-06-15 07:46:43,922 - INFO - 127.0.0.1 - - [15/Jun/2026 07:46:43] "GET /profile HTTP/1.1" 200 -
+2026-06-15 07:46:58,274 - INFO - 127.0.0.1 - - [15/Jun/2026 07:46:58] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 07:46:58,279 - INFO - 127.0.0.1 - - [15/Jun/2026 07:46:58] "[31m[1mGET /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 07:47:03,053 - INFO - 127.0.0.1 - - [15/Jun/2026 07:47:03] "[31m[1mGET /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 07:47:30,152 - INFO - 127.0.0.1 - - [15/Jun/2026 07:47:30] "[31m[1mPOST /tasks/1 HTTP/1.1[0m" 405 -
+2026-06-15 07:50:17,813 - INFO - 127.0.0.1 - - [15/Jun/2026 07:50:17] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 07:50:17,816 - INFO - 127.0.0.1 - - [15/Jun/2026 07:50:17] "[31m[1mGET /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 07:51:04,734 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\Todo_adv\\routes.py', reloading
+2026-06-15 07:51:04,808 - INFO -  * Restarting with stat
+2026-06-15 07:51:05,590 - WARNING -  * Debugger is active!
+2026-06-15 07:51:05,593 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 07:51:49,782 - WARNING - Wrong Password: adithya@gmail.com
+2026-06-15 07:51:49,784 - INFO - 127.0.0.1 - - [15/Jun/2026 07:51:49] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-15 07:51:59,985 - WARNING - Wrong Password: adithya@gmail.com
+2026-06-15 07:51:59,986 - INFO - 127.0.0.1 - - [15/Jun/2026 07:51:59] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-15 07:53:19,170 - INFO - User Registered: testuser@test.com
+2026-06-15 07:53:19,171 - INFO - 127.0.0.1 - - [15/Jun/2026 07:53:19] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2026-06-15 07:53:33,338 - INFO - User Logged In: testuser@test.com
+2026-06-15 07:53:33,339 - INFO - 127.0.0.1 - - [15/Jun/2026 07:53:33] "POST /login HTTP/1.1" 200 -
+2026-06-15 07:53:45,325 - INFO - 127.0.0.1 - - [15/Jun/2026 07:53:45] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 07:53:45,332 - INFO - 127.0.0.1 - - [15/Jun/2026 07:53:45] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 07:55:26,660 - INFO - 127.0.0.1 - - [15/Jun/2026 07:55:26] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 07:55:26,664 - INFO - 127.0.0.1 - - [15/Jun/2026 07:55:26] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 07:56:33,845 - INFO - 127.0.0.1 - - [15/Jun/2026 07:56:33] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 07:56:38,394 - INFO - 127.0.0.1 - - [15/Jun/2026 07:56:38] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 07:57:11,952 - INFO - 127.0.0.1 - - [15/Jun/2026 07:57:11] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 07:57:13,306 - INFO - 127.0.0.1 - - [15/Jun/2026 07:57:13] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 07:57:46,604 - INFO - 127.0.0.1 - - [15/Jun/2026 07:57:46] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 07:57:56,578 - INFO - 127.0.0.1 - - [15/Jun/2026 07:57:56] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 07:57:56,581 - INFO - 127.0.0.1 - - [15/Jun/2026 07:57:56] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 07:58:42,187 - WARNING - Invalid Login: adithya@example.com
+2026-06-15 07:58:42,188 - INFO - 127.0.0.1 - - [15/Jun/2026 07:58:42] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-15 07:58:54,673 - INFO - User Logged In: adithyan@example.com
+2026-06-15 07:58:54,674 - INFO - 127.0.0.1 - - [15/Jun/2026 07:58:54] "POST /login HTTP/1.1" 200 -
+2026-06-15 08:00:28,882 - INFO - 127.0.0.1 - - [15/Jun/2026 08:00:28] "[31m[1mPOST /tasks/1 HTTP/1.1[0m" 405 -
+2026-06-15 08:00:40,160 - INFO - 127.0.0.1 - - [15/Jun/2026 08:00:40] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 08:01:04,244 - INFO - 127.0.0.1 - - [15/Jun/2026 08:01:04] "[31m[1mPOST /tasks/1 HTTP/1.1[0m" 405 -
+2026-06-15 08:01:48,759 - INFO - 127.0.0.1 - - [15/Jun/2026 08:01:48] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:01:48,763 - INFO - 127.0.0.1 - - [15/Jun/2026 08:01:48] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:01:58,791 - INFO - 127.0.0.1 - - [15/Jun/2026 08:01:58] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:01:58,794 - INFO - 127.0.0.1 - - [15/Jun/2026 08:01:58] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:05:10,725 - WARNING - Invalid Login: adithya@example.com
+2026-06-15 08:05:10,725 - INFO - 127.0.0.1 - - [15/Jun/2026 08:05:10] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-15 08:05:21,503 - INFO - User Logged In: adithyan@example.com
+2026-06-15 08:05:21,504 - INFO - 127.0.0.1 - - [15/Jun/2026 08:05:21] "POST /login HTTP/1.1" 200 -
+2026-06-15 08:06:14,266 - ERROR - 'email'
+2026-06-15 08:06:14,266 - INFO - 127.0.0.1 - - [15/Jun/2026 08:06:14] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2026-06-15 08:06:58,218 - INFO - 127.0.0.1 - - [15/Jun/2026 08:06:58] "[33mPOST /task HTTP/1.1[0m" 404 -
+2026-06-15 08:07:02,914 - INFO - 127.0.0.1 - - [15/Jun/2026 08:07:02] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:07:02,918 - INFO - 127.0.0.1 - - [15/Jun/2026 08:07:02] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:08:08,815 - WARNING - Wrong Password: adithya@gmail.com
+2026-06-15 08:08:08,817 - INFO - 127.0.0.1 - - [15/Jun/2026 08:08:08] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-15 08:08:19,231 - WARNING - Wrong Password: adithya@gmail.com
+2026-06-15 08:08:19,231 - INFO - 127.0.0.1 - - [15/Jun/2026 08:08:19] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-15 08:09:41,691 - INFO - 127.0.0.1 - - [15/Jun/2026 08:09:41] "[33mPOST /profile/1 HTTP/1.1[0m" 404 -
+2026-06-15 08:09:45,513 - INFO - 127.0.0.1 - - [15/Jun/2026 08:09:45] "[33mGET /profile/1 HTTP/1.1[0m" 404 -
+2026-06-15 08:11:35,556 - INFO - 127.0.0.1 - - [15/Jun/2026 08:11:35] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2026-06-15 08:11:42,590 - INFO - User Logged In: adithyan@example.com
+2026-06-15 08:11:42,592 - INFO - 127.0.0.1 - - [15/Jun/2026 08:11:42] "POST /login HTTP/1.1" 200 -
+2026-06-15 08:11:47,490 - INFO - User Logged In: adithyan@example.com
+2026-06-15 08:11:47,491 - INFO - 127.0.0.1 - - [15/Jun/2026 08:11:47] "POST /login HTTP/1.1" 200 -
+2026-06-15 08:12:14,091 - INFO - 127.0.0.1 - - [15/Jun/2026 08:12:14] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:12:14,119 - INFO - Task Created: Learn Flask
+2026-06-15 08:12:14,120 - INFO - 127.0.0.1 - - [15/Jun/2026 08:12:14] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 201 -
+2026-06-15 08:12:45,420 - INFO - 127.0.0.1 - - [15/Jun/2026 08:12:45] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:12:45,424 - INFO - 127.0.0.1 - - [15/Jun/2026 08:12:45] "[31m[1mGET /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:13:55,957 - INFO - 127.0.0.1 - - [15/Jun/2026 08:13:55] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:13:55,963 - INFO - 127.0.0.1 - - [15/Jun/2026 08:13:55] "[31m[1mGET /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:14:33,404 - INFO - User Logged In: adithyan@example.com
+2026-06-15 08:14:33,405 - INFO - 127.0.0.1 - - [15/Jun/2026 08:14:33] "POST /login HTTP/1.1" 200 -
+2026-06-15 08:15:08,477 - INFO - 127.0.0.1 - - [15/Jun/2026 08:15:08] "[33mGET /login/tasks HTTP/1.1[0m" 404 -
+2026-06-15 08:16:37,102 - INFO - 127.0.0.1 - - [15/Jun/2026 08:16:37] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:16:37,109 - INFO - 127.0.0.1 - - [15/Jun/2026 08:16:37] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 08:16:52,310 - INFO - 127.0.0.1 - - [15/Jun/2026 08:16:52] "[31m[1mDELETE /tasks/1 HTTP/1.1[0m" 422 -
+2026-06-15 08:17:15,867 - INFO - 127.0.0.1 - - [15/Jun/2026 08:17:15] "[31m[1mDELETE /tasks/2 HTTP/1.1[0m" 422 -
+2026-06-15 08:18:42,444 - INFO - 127.0.0.1 - - [15/Jun/2026 08:18:42] "[31m[1mDELETE /tasks/2 HTTP/1.1[0m" 422 -
+2026-06-15 08:18:50,239 - INFO - 127.0.0.1 - - [15/Jun/2026 08:18:50] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:18:50,245 - INFO - 127.0.0.1 - - [15/Jun/2026 08:18:50] "[31m[1mGET /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:18:56,091 - INFO - 127.0.0.1 - - [15/Jun/2026 08:18:56] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:18:56,096 - INFO - 127.0.0.1 - - [15/Jun/2026 08:18:56] "[31m[1mGET /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:21:03,006 - INFO - 127.0.0.1 - - [15/Jun/2026 08:21:03] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2026-06-15 08:21:14,541 - INFO - 127.0.0.1 - - [15/Jun/2026 08:21:14] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2026-06-15 08:21:18,111 - INFO - User Logged In: adithyan@example.com
+2026-06-15 08:21:18,111 - INFO - 127.0.0.1 - - [15/Jun/2026 08:21:18] "POST /login HTTP/1.1" 200 -
+2026-06-15 08:21:47,531 - INFO - 127.0.0.1 - - [15/Jun/2026 08:21:47] "[33mGET /task HTTP/1.1[0m" 404 -
+2026-06-15 08:21:54,937 - INFO - 127.0.0.1 - - [15/Jun/2026 08:21:54] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:21:54,945 - INFO - 127.0.0.1 - - [15/Jun/2026 08:21:54] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 08:22:05,283 - INFO - 127.0.0.1 - - [15/Jun/2026 08:22:05] "[31m[1mGET /tasks/1 HTTP/1.1[0m" 422 -
+2026-06-15 08:22:36,225 - INFO - 127.0.0.1 - - [15/Jun/2026 08:22:36] "[31m[1mDELETE /tasks/1 HTTP/1.1[0m" 422 -
+2026-06-15 08:24:42,761 - ERROR - 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2026-06-15 08:24:42,762 - INFO - 127.0.0.1 - - [15/Jun/2026 08:24:42] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2026-06-15 08:24:51,059 - INFO - User Logged In: adithyan@example.com
+2026-06-15 08:24:51,060 - INFO - 127.0.0.1 - - [15/Jun/2026 08:24:51] "POST /login HTTP/1.1" 200 -
+2026-06-15 08:25:23,208 - INFO - 127.0.0.1 - - [15/Jun/2026 08:25:23] "[31m[1mGET /profile HTTP/1.1[0m" 401 -
+2026-06-15 08:25:28,842 - INFO - 127.0.0.1 - - [15/Jun/2026 08:25:28] "[31m[1mGET /profile HTTP/1.1[0m" 422 -
+2026-06-15 08:25:36,882 - INFO - 127.0.0.1 - - [15/Jun/2026 08:25:36] "[33mGET /profile/2 HTTP/1.1[0m" 404 -
+2026-06-15 08:25:44,768 - INFO - 127.0.0.1 - - [15/Jun/2026 08:25:44] "[33mGET /profile/1 HTTP/1.1[0m" 404 -
+2026-06-15 08:25:59,230 - INFO - 127.0.0.1 - - [15/Jun/2026 08:25:59] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2026-06-15 08:26:11,424 - INFO - User Logged In: adithyan@example.com
+2026-06-15 08:26:11,425 - INFO - 127.0.0.1 - - [15/Jun/2026 08:26:11] "POST /login HTTP/1.1" 200 -
+2026-06-15 08:26:47,119 - INFO - 127.0.0.1 - - [15/Jun/2026 08:26:47] "GET /profile HTTP/1.1" 200 -
+2026-06-15 08:27:08,465 - INFO - 127.0.0.1 - - [15/Jun/2026 08:27:08] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:27:08,471 - INFO - 127.0.0.1 - - [15/Jun/2026 08:27:08] "[31m[1mGET /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:27:24,611 - INFO - 127.0.0.1 - - [15/Jun/2026 08:27:24] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:27:24,616 - INFO - 127.0.0.1 - - [15/Jun/2026 08:27:24] "[31m[1mGET /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:28:05,382 - INFO - 127.0.0.1 - - [15/Jun/2026 08:28:05] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:28:05,387 - INFO - 127.0.0.1 - - [15/Jun/2026 08:28:05] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:28:43,333 - INFO - 127.0.0.1 - - [15/Jun/2026 08:28:43] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:28:43,339 - INFO - 127.0.0.1 - - [15/Jun/2026 08:28:43] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:28:52,151 - INFO - 127.0.0.1 - - [15/Jun/2026 08:28:52] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:28:52,158 - INFO - 127.0.0.1 - - [15/Jun/2026 08:28:52] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:29:26,340 - INFO - 127.0.0.1 - - [15/Jun/2026 08:29:26] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 08:29:26,346 - INFO - 127.0.0.1 - - [15/Jun/2026 08:29:26] "[31m[1mPOST /tasks/ HTTP/1.1[0m" 422 -
+2026-06-15 08:32:00,284 - ERROR - 'email'
+2026-06-15 08:32:00,285 - INFO - 127.0.0.1 - - [15/Jun/2026 08:32:00] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2026-06-15 08:33:55,832 - INFO - User Logged In: adithyan@example.com
+2026-06-15 08:33:55,834 - INFO - 127.0.0.1 - - [15/Jun/2026 08:33:55] "POST /login HTTP/1.1" 200 -
+2026-06-15 09:43:13,145 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-15 09:43:13,146 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-15 09:43:13,149 - INFO -  * Restarting with stat
+2026-06-15 09:43:14,240 - WARNING -  * Debugger is active!
+2026-06-15 09:43:14,260 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 09:43:45,845 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-15 09:43:45,846 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-15 09:43:45,847 - INFO -  * Restarting with stat
+2026-06-15 09:43:46,861 - WARNING -  * Debugger is active!
+2026-06-15 09:43:46,872 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 09:44:27,526 - INFO - User Registered: adithyan@example.com
+2026-06-15 09:44:27,528 - INFO - 127.0.0.1 - - [15/Jun/2026 09:44:27] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2026-06-15 09:44:40,768 - INFO - User Logged In: adithyan@example.com
+2026-06-15 09:44:40,768 - INFO - 127.0.0.1 - - [15/Jun/2026 09:44:40] "POST /login HTTP/1.1" 200 -
+2026-06-15 09:46:00,498 - INFO - 127.0.0.1 - - [15/Jun/2026 09:46:00] "GET /profile HTTP/1.1" 200 -
+2026-06-15 09:46:15,628 - INFO - 127.0.0.1 - - [15/Jun/2026 09:46:15] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 09:46:15,639 - INFO - 127.0.0.1 - - [15/Jun/2026 09:46:15] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 09:47:17,812 - INFO - 127.0.0.1 - - [15/Jun/2026 09:47:17] "[31m[1mPOST /tasks/1 HTTP/1.1[0m" 405 -
+2026-06-15 09:48:04,515 - INFO - 127.0.0.1 - - [15/Jun/2026 09:48:04] "[31m[1mPOST /tasks/1 HTTP/1.1[0m" 405 -
+2026-06-15 09:48:06,922 - INFO - 127.0.0.1 - - [15/Jun/2026 09:48:06] "[31m[1mPOST /tasks/1 HTTP/1.1[0m" 405 -
+2026-06-15 09:48:12,032 - INFO - 127.0.0.1 - - [15/Jun/2026 09:48:12] "[31m[1mPOST /tasks/1 HTTP/1.1[0m" 405 -
+2026-06-15 09:48:18,235 - INFO - 127.0.0.1 - - [15/Jun/2026 09:48:18] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 09:48:18,266 - INFO - Task Created: Learn Flask
+2026-06-15 09:48:18,267 - INFO - 127.0.0.1 - - [15/Jun/2026 09:48:18] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 201 -
+2026-06-15 09:49:45,952 - INFO - Task Deleted: 1
+2026-06-15 09:49:45,953 - INFO - 127.0.0.1 - - [15/Jun/2026 09:49:45] "DELETE /tasks/1 HTTP/1.1" 200 -
+2026-06-15 09:49:54,472 - INFO - 127.0.0.1 - - [15/Jun/2026 09:49:54] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 09:49:54,484 - INFO - 127.0.0.1 - - [15/Jun/2026 09:49:54] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 09:50:08,636 - INFO - 127.0.0.1 - - [15/Jun/2026 09:50:08] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 09:50:08,664 - INFO - Task Created: Learn Flask
+2026-06-15 09:50:08,665 - INFO - 127.0.0.1 - - [15/Jun/2026 09:50:08] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 201 -
+2026-06-15 09:53:23,801 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\Todo_adv\\exceptions.py', reloading
+2026-06-15 09:53:23,912 - INFO -  * Restarting with stat
+2026-06-15 09:53:25,133 - WARNING -  * Debugger is active!
+2026-06-15 09:53:25,140 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 09:55:58,514 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\Todo_adv\\exceptions.py', reloading
+2026-06-15 09:55:58,638 - INFO -  * Restarting with stat
+2026-06-15 09:55:59,754 - WARNING -  * Debugger is active!
+2026-06-15 09:55:59,761 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 09:56:31,257 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\Todo_adv\\routes.py', reloading
+2026-06-15 09:56:31,390 - INFO -  * Restarting with stat
+2026-06-15 09:56:32,487 - WARNING -  * Debugger is active!
+2026-06-15 09:56:32,495 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 09:58:33,404 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\Todo_adv\\routes.py', reloading
+2026-06-15 09:58:33,562 - INFO -  * Restarting with stat
+2026-06-15 09:58:34,785 - WARNING -  * Debugger is active!
+2026-06-15 09:58:34,790 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 10:00:15,307 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\Todo_adv\\routes.py', reloading
+2026-06-15 10:00:15,455 - INFO -  * Restarting with stat
+2026-06-15 11:46:08,666 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-15 11:46:08,667 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-15 11:46:08,669 - INFO -  * Restarting with stat
+2026-06-15 11:46:09,703 - WARNING -  * Debugger is active!
+2026-06-15 11:46:09,712 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 11:48:05,048 - INFO - User Registered: arya@gmail.com
+2026-06-15 11:48:05,049 - INFO - 127.0.0.1 - - [15/Jun/2026 11:48:05] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2026-06-15 11:48:15,681 - INFO - User Logged In: arya@gmail.com
+2026-06-15 11:48:15,683 - INFO - 127.0.0.1 - - [15/Jun/2026 11:48:15] "POST /login HTTP/1.1" 200 -
+2026-06-15 11:49:14,691 - INFO - 127.0.0.1 - - [15/Jun/2026 11:49:14] "[31m[1mPOST /register HTTP/1.1[0m" 409 -
+2026-06-15 11:49:22,731 - INFO - User Logged In: arya@gmail.com
+2026-06-15 11:49:22,732 - INFO - 127.0.0.1 - - [15/Jun/2026 11:49:22] "POST /login HTTP/1.1" 200 -
+2026-06-15 11:49:55,545 - INFO - 127.0.0.1 - - [15/Jun/2026 11:49:55] "[31m[1mGET /profile HTTP/1.1[0m" 401 -
+2026-06-15 11:50:21,845 - INFO - User Logged In: arya@gmail.com
+2026-06-15 11:50:21,846 - INFO - 127.0.0.1 - - [15/Jun/2026 11:50:21] "POST /login HTTP/1.1" 200 -
+2026-06-15 11:51:02,126 - INFO - 127.0.0.1 - - [15/Jun/2026 11:51:02] "[31m[1mGET /profile HTTP/1.1[0m" 401 -
+2026-06-15 11:51:15,747 - INFO - 127.0.0.1 - - [15/Jun/2026 11:51:15] "GET /profile HTTP/1.1" 200 -
+2026-06-15 11:51:26,837 - INFO - 127.0.0.1 - - [15/Jun/2026 11:51:26] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:51:26,847 - INFO - 127.0.0.1 - - [15/Jun/2026 11:51:26] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 11:53:20,183 - INFO - 127.0.0.1 - - [15/Jun/2026 11:53:20] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:53:20,188 - ERROR - Create Task Error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2026-06-15 11:53:20,190 - INFO - 127.0.0.1 - - [15/Jun/2026 11:53:20] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 500 -
+2026-06-15 11:53:27,831 - INFO - 127.0.0.1 - - [15/Jun/2026 11:53:27] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:53:27,837 - ERROR - Create Task Error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2026-06-15 11:53:27,839 - INFO - 127.0.0.1 - - [15/Jun/2026 11:53:27] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 500 -
+2026-06-15 11:53:35,510 - INFO - 127.0.0.1 - - [15/Jun/2026 11:53:35] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:53:35,515 - ERROR - Create Task Error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2026-06-15 11:53:35,516 - INFO - 127.0.0.1 - - [15/Jun/2026 11:53:35] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 500 -
+2026-06-15 11:53:43,033 - INFO - 127.0.0.1 - - [15/Jun/2026 11:53:43] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:53:43,039 - ERROR - Create Task Error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2026-06-15 11:53:43,040 - INFO - 127.0.0.1 - - [15/Jun/2026 11:53:43] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 500 -
+2026-06-15 11:53:47,378 - INFO - 127.0.0.1 - - [15/Jun/2026 11:53:47] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:53:47,384 - ERROR - Create Task Error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2026-06-15 11:53:47,385 - INFO - 127.0.0.1 - - [15/Jun/2026 11:53:47] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 500 -
+2026-06-15 11:54:00,692 - INFO - 127.0.0.1 - - [15/Jun/2026 11:54:00] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:54:00,701 - INFO - 127.0.0.1 - - [15/Jun/2026 11:54:00] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 11:54:27,338 - INFO - 127.0.0.1 - - [15/Jun/2026 11:54:27] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:54:27,346 - INFO - 127.0.0.1 - - [15/Jun/2026 11:54:27] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 11:54:33,269 - INFO - 127.0.0.1 - - [15/Jun/2026 11:54:33] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:54:33,275 - ERROR - Create Task Error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2026-06-15 11:54:33,276 - INFO - 127.0.0.1 - - [15/Jun/2026 11:54:33] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 500 -
+2026-06-15 11:54:45,893 - INFO - 127.0.0.1 - - [15/Jun/2026 11:54:45] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:54:45,922 - INFO - Task Created: Python
+2026-06-15 11:54:45,923 - INFO - 127.0.0.1 - - [15/Jun/2026 11:54:45] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 201 -
+2026-06-15 11:55:03,546 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:03] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:55:03,555 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:03] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 11:55:15,357 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:15] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:55:15,366 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:15] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 11:55:24,684 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:24] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:55:24,713 - INFO - Task Created: Python
+2026-06-15 11:55:24,714 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:24] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 201 -
+2026-06-15 11:55:39,315 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:39] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:55:39,321 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:39] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 11:55:50,610 - INFO - Task Deleted: 1
+2026-06-15 11:55:50,612 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:50] "DELETE /tasks/1 HTTP/1.1" 200 -
+2026-06-15 11:55:58,891 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:58] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:55:58,899 - INFO - 127.0.0.1 - - [15/Jun/2026 11:55:58] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 11:56:17,831 - INFO - Task Deleted: 2
+2026-06-15 11:56:17,831 - INFO - 127.0.0.1 - - [15/Jun/2026 11:56:17] "DELETE /tasks/2 HTTP/1.1" 200 -
+2026-06-15 11:56:24,787 - INFO - 127.0.0.1 - - [15/Jun/2026 11:56:24] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 11:56:24,797 - INFO - 127.0.0.1 - - [15/Jun/2026 11:56:24] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 12:02:28,228 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\Todo_adv\\__init__.py', reloading
+2026-06-15 12:02:28,389 - INFO -  * Restarting with stat
+2026-06-15 12:02:29,565 - WARNING -  * Debugger is active!
+2026-06-15 12:02:29,571 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 12:02:44,833 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\Todo_adv\\__init__.py', reloading
+2026-06-15 12:02:45,007 - INFO -  * Restarting with stat
+2026-06-15 12:02:46,088 - WARNING -  * Debugger is active!
+2026-06-15 12:02:46,094 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 12:03:04,384 - INFO -  * Detected change in 'C:\\Users\\Hp\\OneDrive\\Desktop\\Todo_adv\\__init__.py', reloading
+2026-06-15 12:03:04,517 - INFO -  * Restarting with stat
+2026-06-15 12:03:05,597 - WARNING -  * Debugger is active!
+2026-06-15 12:03:05,603 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 12:03:13,720 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-15 12:03:13,721 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-15 12:03:13,723 - INFO -  * Restarting with stat
+2026-06-15 12:03:14,773 - WARNING -  * Debugger is active!
+2026-06-15 12:03:14,781 - INFO -  * Debugger PIN: 113-265-740
+2026-06-15 12:03:37,453 - INFO - User Logged In: arya@gmail.com
+2026-06-15 12:03:37,454 - INFO - 127.0.0.1 - - [15/Jun/2026 12:03:37] "POST /login HTTP/1.1" 200 -
+2026-06-15 12:04:19,464 - INFO - 127.0.0.1 - - [15/Jun/2026 12:04:19] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 12:04:19,475 - INFO - 127.0.0.1 - - [15/Jun/2026 12:04:19] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 12:04:54,825 - INFO - 127.0.0.1 - - [15/Jun/2026 12:04:54] "[32mPOST /tasks HTTP/1.1[0m" 308 -
+2026-06-15 12:04:54,859 - INFO - Task Created: C
+2026-06-15 12:04:54,860 - INFO - 127.0.0.1 - - [15/Jun/2026 12:04:54] "[35m[1mPOST /tasks/ HTTP/1.1[0m" 201 -
+2026-06-15 12:05:05,874 - INFO - 127.0.0.1 - - [15/Jun/2026 12:05:05] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 12:05:05,882 - INFO - 127.0.0.1 - - [15/Jun/2026 12:05:05] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 12:05:54,340 - INFO - 127.0.0.1 - - [15/Jun/2026 12:05:54] "[33mPUT /tasks HTTP/1.1[0m" 404 -
+2026-06-15 12:06:04,810 - INFO - 127.0.0.1 - - [15/Jun/2026 12:06:04] "[33mPUT /tasks HTTP/1.1[0m" 404 -
+2026-06-15 12:06:22,609 - INFO - 127.0.0.1 - - [15/Jun/2026 12:06:22] "[33mPUT /tasks HTTP/1.1[0m" 404 -
+2026-06-15 12:06:31,399 - INFO - 127.0.0.1 - - [15/Jun/2026 12:06:31] "[33mPUT /tasks HTTP/1.1[0m" 404 -
+2026-06-15 12:06:47,165 - INFO - 127.0.0.1 - - [15/Jun/2026 12:06:47] "[33mPUT /tasks HTTP/1.1[0m" 404 -
+2026-06-15 12:06:53,741 - INFO - User Logged In: arya@gmail.com
+2026-06-15 12:06:53,742 - INFO - 127.0.0.1 - - [15/Jun/2026 12:06:53] "POST /login HTTP/1.1" 200 -
+2026-06-15 12:07:39,520 - INFO - 127.0.0.1 - - [15/Jun/2026 12:07:39] "[33mPUT /tasks HTTP/1.1[0m" 404 -
+2026-06-15 12:07:44,646 - INFO - 127.0.0.1 - - [15/Jun/2026 12:07:44] "[33mPUT /tasks/2 HTTP/1.1[0m" 404 -
+2026-06-15 12:07:49,680 - INFO - 127.0.0.1 - - [15/Jun/2026 12:07:49] "[33mPUT /tasks/1 HTTP/1.1[0m" 404 -
+2026-06-15 12:07:54,056 - INFO - Task Updated: 3
+2026-06-15 12:07:54,056 - INFO - 127.0.0.1 - - [15/Jun/2026 12:07:54] "PUT /tasks/3 HTTP/1.1" 200 -
+2026-06-15 12:08:14,543 - INFO - 127.0.0.1 - - [15/Jun/2026 12:08:14] "GET /tasks/3 HTTP/1.1" 200 -
+2026-06-15 12:08:21,075 - INFO - 127.0.0.1 - - [15/Jun/2026 12:08:21] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 12:08:21,084 - INFO - 127.0.0.1 - - [15/Jun/2026 12:08:21] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 12:08:41,862 - INFO - Task Deleted: 4
+2026-06-15 12:08:41,862 - INFO - 127.0.0.1 - - [15/Jun/2026 12:08:41] "DELETE /tasks/4 HTTP/1.1" 200 -
+2026-06-15 12:08:50,310 - INFO - 127.0.0.1 - - [15/Jun/2026 12:08:50] "[32mGET /tasks HTTP/1.1[0m" 308 -
+2026-06-15 12:08:50,318 - INFO - 127.0.0.1 - - [15/Jun/2026 12:08:50] "GET /tasks/ HTTP/1.1" 200 -
+2026-06-15 12:10:33,747 - INFO - Serving on http://0.0.0.0:5000
+2026-06-15 12:11:13,532 - INFO - User Logged In: arya@gmail.com
+2026-06-15 12:20:01,434 - INFO - Serving on http://0.0.0.0:5000
+2026-06-15 12:22:07,997 - INFO - User Logged In: arya@gmail.com
+2026-06-15 12:38:42,800 - INFO - User Logged In: arya@gmail.com
+2026-06-15 12:39:54,475 - INFO - Task Created: HTML
+2026-06-15 12:40:49,984 - INFO - Task Deleted: 4
+2026-06-15 12:40:59,745 - INFO - Task Deleted: 3
+2026-06-15 14:16:26,875 - INFO - Serving on http://0.0.0.0:5000
